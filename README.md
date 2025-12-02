@@ -31,10 +31,11 @@ https://www.kaggle.com/datasets/wwymak/architecture-dataset/data
 
 ### Carpetas en el Repositorio
 - `data/`  
-  - Contiene el **dataset original**.  
   - Contiene el **dataset final preparado**, listo para entrenamiento y evaluación.  
-- `code/`  
+- `notebooks/`  
   - Contiene los **programas en Python** desarrollados para entrenamiento, validación y comparación de modelos.
+- `models/`  
+  - Contiene los **modelos** resultantes de los entrenamientos.
 
 ---
 
