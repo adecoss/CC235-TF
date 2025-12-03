@@ -36,7 +36,8 @@ https://www.kaggle.com/datasets/wwymak/architecture-dataset/data
   - Contiene los **programas en Python** desarrollados para entrenamiento, validación y comparación de modelos.
 - `models/`  
   - Contiene los **modelos** resultantes de los entrenamientos.
-
+- `GUI/`
+  - Contiene los arhivos de la interfaz grafafica para probar los mejores modelos.
 ---
 
 ## Modelos Evaluados
